@@ -1166,12 +1166,6 @@
             <mxPoint x="441" y="-665" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rF833N9Rra80wWvZxYwm-3" edge="1" parent="1" source="D9Ns-IjtOzS1T6OjdFAX-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="D9Ns-IjtOzS1T6OjdFAX-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-20" y="-426" as="sourcePoint" />
-            <mxPoint x="644" y="-669" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rF833N9Rra80wWvZxYwm-5" edge="1" parent="1" source="_Ztpsi0FAR7gAESa_c5E-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="VivNHLu1feSLYXQU7nKq-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="-451" as="sourcePoint" />
@@ -1292,20 +1286,17 @@
         <mxCell id="VivNHLu1feSLYXQU7nKq-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Acessar Exposições Criadas" vertex="1">
           <mxGeometry height="70" width="140" x="580" y="-640" as="geometry" />
         </mxCell>
-        <mxCell id="_Ztpsi0FAR7gAESa_c5E-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Denunciar Exposição" vertex="1">
+        <mxCell id="_Ztpsi0FAR7gAESa_c5E-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Reportar Exposição" vertex="1">
           <mxGeometry height="70" width="140" x="510" y="-710" as="geometry" />
         </mxCell>
         <mxCell id="D9Ns-IjtOzS1T6OjdFAX-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Explorar Exposições" vertex="1">
-          <mxGeometry height="70" width="140" x="440" y="-790" as="geometry" />
+          <mxGeometry height="70" width="140" x="290" y="-723" as="geometry" />
         </mxCell>
         <mxCell id="D9Ns-IjtOzS1T6OjdFAX-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Acessar Exposição" vertex="1">
-          <mxGeometry height="70" width="140" x="320" y="-740" as="geometry" />
+          <mxGeometry height="70" width="140" x="280" y="-640" as="geometry" />
         </mxCell>
         <mxCell id="D9Ns-IjtOzS1T6OjdFAX-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Acessar Painel" vertex="1">
-          <mxGeometry height="70" width="140" x="290" y="-660" as="geometry" />
-        </mxCell>
-        <mxCell id="D9Ns-IjtOzS1T6OjdFAX-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Examinar Imagem" vertex="1">
-          <mxGeometry height="70" width="140" x="280" y="-580" as="geometry" />
+          <mxGeometry height="70" width="140" x="280" y="-550" as="geometry" />
         </mxCell>
         <mxCell id="N9NDozlqPbcToQZWG9eW-18" edge="1" parent="1" source="_Ztpsi0FAR7gAESa_c5E-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="_Ztpsi0FAR7gAESa_c5E-14" value="">
           <mxGeometry relative="1" as="geometry">
