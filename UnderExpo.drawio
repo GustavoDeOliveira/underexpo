@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.4" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="8">
   <diagram name="Rascunho de Telas" id="jZxrRITYODzHujeGRhK7">
     <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1326,7 +1326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6M8_Ip-7fAsjsL2TyZBw" name="Entidade-Relacionamento">
-    <mxGraphModel dx="1783" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1844,7 +1844,7 @@
             <mxRectangle height="30" width="170" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ISmmhTUGqyQMBsCzJ6L-133" edge="1" parent="1" source="0ISmmhTUGqyQMBsCzJ6L-111" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;endFill=1;rounded=0;" target="0ISmmhTUGqyQMBsCzJ6L-27" value="">
+        <mxCell id="0ISmmhTUGqyQMBsCzJ6L-133" edge="1" parent="1" source="0ISmmhTUGqyQMBsCzJ6L-111" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;endFill=0;rounded=0;" target="0ISmmhTUGqyQMBsCzJ6L-27" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="730" y="570" as="sourcePoint" />
             <mxPoint x="150" y="499" as="targetPoint" />
@@ -1968,7 +1968,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ISmmhTUGqyQMBsCzJ6L-182" parent="0ISmmhTUGqyQMBsCzJ6L-180" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" value="panel_id" vertex="1">
+        <mxCell id="0ISmmhTUGqyQMBsCzJ6L-182" parent="0ISmmhTUGqyQMBsCzJ6L-180" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;whiteSpace=wrap;html=1;" value="exposition_id" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -2049,7 +2049,7 @@
             <mxPoint x="1160" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ISmmhTUGqyQMBsCzJ6L-184" edge="1" parent="1" source="0ISmmhTUGqyQMBsCzJ6L-24" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;endFill=0;" target="0ISmmhTUGqyQMBsCzJ6L-180" value="">
+        <mxCell id="0ISmmhTUGqyQMBsCzJ6L-184" edge="1" parent="1" source="0ISmmhTUGqyQMBsCzJ6L-2" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="0ISmmhTUGqyQMBsCzJ6L-180" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="650" />
