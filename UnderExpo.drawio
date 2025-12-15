@@ -985,7 +985,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rfY8jsXp8-woKFfMg6YW" name="Dependências de Infraestrutura">
-    <mxGraphModel dx="1678" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1128,8 +1128,13 @@
         <mxCell id="m6hvUSAYD0VaVVpqrhKf-2" parent="VV8MK7nC0-GZRqH1BS1M-36" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Google Auth" vertex="1">
           <mxGeometry height="30" width="190" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="VV8MK7nC0-GZRqH1BS1M-37" edge="1" parent="1" source="VV8MK7nC0-GZRqH1BS1M-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="VV8MK7nC0-GZRqH1BS1M-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VV8MK7nC0-GZRqH1BS1M-37" edge="1" parent="1" source="VV8MK7nC0-GZRqH1BS1M-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="VV8MK7nC0-GZRqH1BS1M-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="1210" />
+              <mxPoint x="450" y="1210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
